@@ -1,2 +1,24 @@
-Hi, there
-I am Ashish Arora
+![Ashish Arora | Cloud Infrastructure and Reliability](./banner.png)
+
+## Hi, I'm Ashish 👋
+
+I lead cloud infrastructure and production operations for SaaS platforms. My work spans AWS, Azure , with a focus on reliability, observability, incident response and building strong engineering teams , shipping reliable updates , achive 5 9's availability and reliability and Happy customers .
+
+### What I work on
+
+- **Reliability:** Production availability, major incident response, root cause analysis and disaster recovery.
+- **Cloud platforms:** Infrastructure design, cloud migrations, Kubernetes and Terraform.
+- **Operational improvement:** Monitoring, automation, change management and cloud cost optimization.
+- **Leadership:** Developing engineers and managers, building global teams and partnering across Product, Engineering and Security.
+
+### Tools and platforms
+
+**Cloud:** AWS · Azure · GCP  
+**Infrastructure and automation:** Kubernetes · Terraform · Ansible · Python · Jenkins · Git  
+**Observability:** Grafana · Prometheus · CloudWatch  · ELK 
+
+### 
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashisharora14/)
