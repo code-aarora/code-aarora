@@ -1,4 +1,4 @@
-![Ashish Arora | Cloud Infrastructure and Reliability](./banner2.png)
+![Ashish Arora | Cloud Infrastructure and Reliability](./banner_v1.png)
 
 ## Hi, I'm Ashish 👋
 
