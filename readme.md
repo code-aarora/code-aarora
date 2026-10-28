@@ -6,10 +6,10 @@ I lead cloud infrastructure and production operations for SaaS platforms. My wor
 
 ### What I work on
 
-- **Reliability:** Production availability, major incident response, root cause analysis and disaster recovery.
-- **Cloud platforms:** Infrastructure design, cloud migrations, Kubernetes and Terraform.
+- **Reliability:** Production availability, major incident response, root cause analysis and disaster recovery, 24/7 coverage design ,Observability and automation.
+- **Cloud platforms:** Infrastructure design, cloud migrations, Kubernetes and Terraform, IaC and no click deployments.
 - **Operational improvement:** Monitoring, automation, change management and cloud cost optimization.
-- **Leadership:** Developing engineers and managers, building global teams and partnering across Product, Engineering and Security.
+- **Leadership:** Developing engineers and managers, building global teams and partnering across Product, Engineering and Security and value co-creation by bridging the gap bnetween product, devlopment, comliance, marketing and Operations.
 
 ### Tools and platforms
 
